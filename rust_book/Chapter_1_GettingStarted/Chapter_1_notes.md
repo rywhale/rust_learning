@@ -1,4 +1,4 @@
-# 1. Getting Started
+# Getting Started
 ## Install
 * Install Rust for windows using [this](https://www.rust-lang.org/tools/install)
 * Check version to ensure proper install 
