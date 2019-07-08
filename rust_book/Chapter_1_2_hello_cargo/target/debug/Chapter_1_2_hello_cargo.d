@@ -1,0 +1,1 @@
+C:\Users\whaleyry\Desktop\rust_learning\rust_book\Chapter_1_2_hello_cargo\target\debug\Chapter_1_2_hello_cargo.pdb: C:\Users\whaleyry\Desktop\rust_learning\rust_book\Chapter_1_2_hello_cargo\src\main.rs
