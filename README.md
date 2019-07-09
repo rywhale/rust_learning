@@ -10,6 +10,7 @@ Assorted resources/notes gathered while learning Rust.
         * [Chapter 4](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_4_Ownership/Chapter_4_notes.md)
         * [Chapter 5](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_5_Structs/Chapter_5_notes.md)
         * [Chapter 6](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_6_Enums/Chapter_6_notes.md)
+        * [Chapter 7](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_7_ProjectManagement/Chapter_7_notes.md)
 * Rust by example ([link to book](https://doc.rust-lang.org/stable/rust-by-example/))
 * Rust Cookbook ([link to book](https://rust-lang-nursery.github.io/rust-cookbook/))
 
