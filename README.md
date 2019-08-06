@@ -15,6 +15,7 @@ Assorted resources/notes gathered while learning Rust.
         * [Chapter 9](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_9_ErrorHandling/Chapter_9_notes.md)
         * [Chapter 10](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_10_GenericTypesTraitsandLifetimes/Chapter_10_notes.md)
         * [Chapter 11](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_11_WritingAutomatedTests/Chapter_11_notes.md)
+        * [Chapter 12](https://github.com/rywhale/rust_learning/blob/master/rust_book/Chapter_12_CommandLineProject/Chapter_12_notes.md)
 
 * Rust by example ([link to book](https://doc.rust-lang.org/stable/rust-by-example/))
 * Rust Cookbook ([link to book](https://rust-lang-nursery.github.io/rust-cookbook/))
